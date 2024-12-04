@@ -3,6 +3,7 @@ import { FiHeart } from "react-icons/fi"
 import "./Nav.css"
 import { AiOutlineShoppingCart, AiOutlineUserAdd } from "react-icons/ai"
 
+
 function Nav() {
   return (
    <nav>
