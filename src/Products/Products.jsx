@@ -12,6 +12,7 @@ function Products() {
      <Card/>
      <Card/>
      <Card/>
+    
      </section>
     </>
   )
